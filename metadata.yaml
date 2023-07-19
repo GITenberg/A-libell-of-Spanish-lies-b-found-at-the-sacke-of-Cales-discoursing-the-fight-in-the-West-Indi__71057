@@ -1,0 +1,48 @@
+_repo: A-libell-of-Spanish-lies-b-found-at-the-sacke-of-Cales-discoursing-the-fight-in-the-West-Indi__71057
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Delgadillo de Avellaneda, Bernaldino
+    aliases:
+    - Avellaneda, Bernardino de
+    - Avellaneda, Bernaldino Delgadillo de
+    birthdate: 1544
+    deathdate: 1629
+    gutenberg_agent_id: '56046'
+    url: http://www.gutenberg.org/2009/agents/56046
+    wikipedia: https://es.wikipedia.org/wiki/Bernardino_de_Avellaneda
+creator:
+  author:
+    agent_name: Savile, Henry, Captain
+    alias: Sauile, Henrie, Captain
+    gutenberg_agent_id: '56062'
+    url: http://www.gutenberg.org/2009/agents/56062
+description: 'The "libell" is a letter by Bernaldino Delgadillo de Avellaneda, printed
+  in Spanish and English.
+
+  Note preceding title page signed: J.P.C.'
+gutenberg_issued: '2023-06-27'
+identifiers:
+  gutenberg: '71057'
+  lccn: '02020361'
+language: en
+pgterms:marc905: 20230430114851savile
+pgterms:marc906: '1596'
+pgterms:marc907: GB
+production_note: John Campbell and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bF. Shoberl, $c1596, pubdate 1863.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Drake, Francis, approximately 1540-1596 -- Death and burial'
+- !lcsh 'Delgadillo de Avellaneda, Bernaldino, 1544-1629'
+- !lcsh 'Isle of Pines, Battle of the, Cuba, 1596 -- Personal narratives'
+- !lcc 'E011'
+- GITenberg
+title: 'A libell of Spanish lies : $b found at the sacke of Cales, discoursing the
+  fight in the West Indies, twixt the English navie being fourteene ships and pinasses,
+  and a fleete of twentie saile of the king of Spaines, and of the death of Sir Francis
+  Drake'
+url: http://www.gutenberg.org/ebooks/71057
