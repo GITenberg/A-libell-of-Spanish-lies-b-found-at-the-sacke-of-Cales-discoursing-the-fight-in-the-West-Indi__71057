@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '56046'
     url: http://www.gutenberg.org/2009/agents/56046
     wikipedia: https://es.wikipedia.org/wiki/Bernardino_de_Avellaneda
+covers:
+- cover_type: archival
+  image_path: 71057-h/images/cover.jpg
 creator:
   author:
     agent_name: Savile, Henry, Captain
@@ -21,6 +24,8 @@ description: 'The "libell" is a letter by Bernaldino Delgadillo de Avellaneda, p
   in Spanish and English.
 
   Note preceding title page signed: J.P.C.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71057#A-libell-of-Spanish-lies-b-found-at-the-sacke-of-Cales-discoursing-the-fight-in-the-West-Indi_
 gutenberg_issued: '2023-06-27'
 identifiers:
   gutenberg: '71057'
